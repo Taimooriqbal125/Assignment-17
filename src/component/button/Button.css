@@ -1,0 +1,11 @@
+#btn1{
+    width: 107px;
+    height: 33px;
+    border: 0 none;
+    border-radius: 40px;
+    background-color: #667fea;
+    color: white;
+}
+#btn1:hover{
+    background-color: rgba(52, 49, 49, 0.575);
+}

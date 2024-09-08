@@ -1,0 +1,21 @@
+#ma {
+  display: flex;
+  gap: 25rem;
+  margin-left: 13rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  list-style: none;
+}
+#ma1 {
+  display: flex;
+  gap: 3rem;
+  list-style: none;
+  font-family: Inter, sans-serif;
+  color: #728197;
+  font-size: small;
+  font-weight: 700;
+}
+li a {
+  color: #728197;
+  text-decoration: none;
+}

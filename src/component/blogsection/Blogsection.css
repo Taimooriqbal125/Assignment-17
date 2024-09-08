@@ -1,0 +1,59 @@
+a[href] {
+  text-decoration: none;
+  color: black;
+}
+
+#blogmain {
+  background-color: #f7f7f7;
+  width: 78.9rem;
+  height: 200px;
+  text-align: center;
+}
+#blogdata {
+  text-align: center;
+}
+#ankertag {
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  top: 10px;
+}
+#ankertag:hover {
+  text-decoration: underline;
+  color: black;
+}
+#pera {
+  font-size: 12px;
+  font-weight: 400;
+  color: #728197;
+  max-width: 20rem;
+  word-break: break-word;
+  line-height: 1.2rem;
+  position: relative;
+  top: 10px;
+}
+#blogs{
+  display: flex;
+  gap: 30px;
+ background-color: white;
+ height: 200px;
+ width: 700px;
+ position: absolute;
+ left:  19rem;
+}
+#loadbtn{
+margin-left: 35rem;
+padding-top: 5rem;
+}
+#b{
+  position: relative;
+  top: 200px;
+  height: 20rem;
+  width: 20rem;
+  background-color: rgb(240, 12, 12);
+  z-index:3;
+}
+#a{
+  float: inline-start;
+  z-index: 2;
+}
